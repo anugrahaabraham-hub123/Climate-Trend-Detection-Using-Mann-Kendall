@@ -4,7 +4,7 @@ This directory contains visualization generated from the seasonal Mann–Kendall
 
 ## Included Figure
 
-**Seasonal_Kendall_Tau_Combined.png**
+![Seasonal Mann–Kendall Trend Analysis](Seasonal_Kendall_Tau_Combined.png)
 
 This combined figure presents the spatial distribution of Kendall's Tau values for aerosol radiative forcing across the Indian subcontinent from **1980–2024**.
 
